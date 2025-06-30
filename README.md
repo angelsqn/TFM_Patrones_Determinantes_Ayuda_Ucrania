@@ -41,16 +41,16 @@ Este repositorio contiene el código y documentación asociados al Trabajo Fin d
 
 ## 🧬 Estructura del repositorio
 
-```text
 TFM-Ayuda-Ucrania/
-│
-├── TFM_Ayuda_Ucrania.R          # Código principal del análisis
-├── figures/                     # Gráficos del análisis
-│   ├── gasRuso.jpg
-│   ├── indicadorsinteticoayuda.jpg
-│   ├── mapapoliticoclusters.jpg
-│   └── ...otros
-├── README.md                    # Este documento
+````│
+├── TFM_Ayuda_Ucrania.R # Código principal del análisis
+├── figures/ # Gráficos del análisis
+│ ├── gasRuso.jpg
+│ ├── indicadorsinteticoayuda.jpg
+│ ├── mapapoliticoclusters.jpg
+│ └── ...otros
+└── README.md # Este documento
+````
 
 ## 📷 Visualizaciones destacadas
 🌍 Distribución geográfica de los clústers
@@ -62,37 +62,13 @@ Puedes descargar R desde: https://cran.r-project.org/
 Y RStudio desde: https://posit.co/download/rstudio-desktop/
 
 2. Instalar las librerías necesarias
-r
-Copiar
-Editar
-install.packages(c("FactoMineR", "factoextra", "randomForest", "glmnet", 
-                   "MASS", "caret", "dplyr", "ggplot2", "corrplot", "car"))
+
 3. Ejecutar el script
-r
-Copiar
-Editar
-source("TFM_Ayuda_Ucrania.R")
+
 ⚠️ Nota: Por motivos de confidencialidad, la base de datos real no se incluye en este repositorio. Puedes reconstruirla siguiendo las fuentes indicadas en el documento del TFM.
 
-## 👨‍💼 Autor
-Ángel Sánchez Quintero
-📧 sq.angel@hotmail.com
-📍 España
-🎓 Universidad (2024/2025)
-
-Puedes contactar conmigo para colaborar, comentar el análisis o hablar de datos, conflictos y geopolítica.
-
-## 📚 Cita recomendada
-Si quieres citar este repositorio o el trabajo, puedes usar:
-
-bibtex
-Copiar
-Editar
-@misc{SanchezQuintero2025,
-  author = {Ángel Sánchez Quintero},
-  title = {TFM - Patrones y determinantes de la ayuda internacional a Ucrania},
-  year = {2025},
-  howpublished = {\url{https://github.com/angel-sq/TFM-Ayuda-Ucrania}}
-}
-## 📎 Licencia
-Este proyecto está bajo la licencia MIT, lo que significa que puedes reutilizar el código libremente citando la autoría original.
+## 👨‍💼 Autor  
+Ángel Sánchez Quintero  
+📧 sq.angel@hotmail.com  
+📍 España  
+🎓 Universidad (2024/2025)  
