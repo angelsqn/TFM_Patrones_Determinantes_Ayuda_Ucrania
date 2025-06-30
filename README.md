@@ -52,20 +52,20 @@ TFM-Ayuda-Ucrania/
 └── README.md # Este documento
 ````
 
-## 📷 Visualizaciones destacadas
-🌍 Distribución geográfica de los clústers
-🔥 Indicador sintético de ayuda a Ucrania
+## 📷 Visualizaciones destacadas  
+🌍 Distribución geográfica de los clústers  
+🔥 Indicador sintético de ayuda a Ucrania  
 
 ## 🚀 Cómo reproducir el análisis
-1. Instalar R y RStudio
-Puedes descargar R desde: https://cran.r-project.org/
-Y RStudio desde: https://posit.co/download/rstudio-desktop/
+1. Instalar R y RStudio  
+Puedes descargar R desde: https://cran.r-project.org/  
+Y RStudio desde: https://posit.co/download/rstudio-desktop/  
 
-2. Instalar las librerías necesarias
+2. Instalar las librerías necesarias  
 
-3. Ejecutar el script
+3. Ejecutar el script  
 
-⚠️ Nota: Por motivos de confidencialidad, la base de datos real no se incluye en este repositorio. Puedes reconstruirla siguiendo las fuentes indicadas en el documento del TFM.
+⚠️ Nota: Por motivos de confidencialidad, la base de datos real no se incluye en este repositorio. Puedes reconstruirla siguiendo las fuentes indicadas en el documento del TFM.  
 
 ## 👨‍💼 Autor  
 Ángel Sánchez Quintero  
