@@ -52,14 +52,11 @@ TFM-Ayuda-Ucrania/
 │   └── ...otros
 ├── README.md                    # Este documento
 
-📷 Visualizaciones destacadas
+## 📷 Visualizaciones destacadas
 🌍 Distribución geográfica de los clústers
-
-📈 Varianza explicada en el análisis factorial
-
 🔥 Indicador sintético de ayuda a Ucrania
 
-🚀 Cómo reproducir el análisis
+## 🚀 Cómo reproducir el análisis
 1. Instalar R y RStudio
 Puedes descargar R desde: https://cran.r-project.org/
 Y RStudio desde: https://posit.co/download/rstudio-desktop/
@@ -77,7 +74,7 @@ Editar
 source("TFM_Ayuda_Ucrania.R")
 ⚠️ Nota: Por motivos de confidencialidad, la base de datos real no se incluye en este repositorio. Puedes reconstruirla siguiendo las fuentes indicadas en el documento del TFM.
 
-👨‍💼 Autor
+## 👨‍💼 Autor
 Ángel Sánchez Quintero
 📧 sq.angel@hotmail.com
 📍 España
@@ -85,7 +82,7 @@ source("TFM_Ayuda_Ucrania.R")
 
 Puedes contactar conmigo para colaborar, comentar el análisis o hablar de datos, conflictos y geopolítica.
 
-📚 Cita recomendada
+## 📚 Cita recomendada
 Si quieres citar este repositorio o el trabajo, puedes usar:
 
 bibtex
@@ -97,5 +94,5 @@ Editar
   year = {2025},
   howpublished = {\url{https://github.com/angel-sq/TFM-Ayuda-Ucrania}}
 }
-📎 Licencia
+## 📎 Licencia
 Este proyecto está bajo la licencia MIT, lo que significa que puedes reutilizar el código libremente citando la autoría original.
