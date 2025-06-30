@@ -1,8 +1,7 @@
 # TFM_Ayuda_Ucrania
 Repositorio del Trabajo Fin de Máster de Ángel Sánchez Quintero sobre patrones y determinantes de la ayuda internacional a Ucrania (análisis en R).
 
-# TFM - Patrones y determinantes de la ayuda internacional a Ucrania
-
+# TFM - Patrones y determinantes de la ayuda internacional a Ucrania: Un estudio estadístico de la respuesta integral al conflicto
 Este repositorio contiene el código y documentación asociados al Trabajo Fin de Máster (TFM) de **Ángel Sánchez Quintero**, desarrollado en el curso 2024/2025, cuyo objetivo es analizar cuantitativamente la respuesta internacional al conflicto entre **Rusia y Ucrania**.
 
 > 🧠 Un estudio basado en análisis factorial, clustering y modelos estadísticos para identificar los factores que explican **por qué unos países han ayudado a Ucrania y otros no**.
